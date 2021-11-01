@@ -1,21 +1,16 @@
 ---
-role: Professor of Artificial Intelligence
+title: Ramon Füglister
+role: "Lehrperson "
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=de&hl=de&user=lLj3kJ4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -23,23 +18,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ZAG Winterthur
+    url: https://zag.zh.ch/de-ch/home.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+email: ""
 superuser: true
 highlight_name: true
-title: Ramon Füglister
-email: ""
 ---
 Ramon Füglister
 
