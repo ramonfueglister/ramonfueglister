@@ -22,9 +22,12 @@ organizations:
     url: https://zag.zh.ch/de-ch/home.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Bachelor of Science (voraussichtlich)
+      institution: Fernuniversität Schweiz
+      year: 2022
+    - course: Master of Arts (Humanities)
+      institution: Universität Zürich
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
