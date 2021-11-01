@@ -35,4 +35,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Herzlich Willkommen auf der persönlichen Homepage von Ramon Füglister. Ich bin Lehrperson an der Berufsfachschule ZAG Winterthur und interessiere mich für Data Science, Educational Data Mining, Learning Analytics und Machine Learning für den Lehrberuf.
+Herzlich Willkommen auf der persönlichen Homepage von Ramon Füglister. Ich bin Lehrperson an der Berufsfachschule ZAG Winterthur und interessiere mich für Data Science, Educational Data Mining, Learning Analytics, Machine Learning und deren Anwendungen für den Lehrberuf. Hier finden Sie Informationen über mich sowie Anleitungen für pädagogische Praktikerinnen und Praktiker.
