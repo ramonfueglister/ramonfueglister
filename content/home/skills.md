@@ -5,17 +5,17 @@ weight: 30
 title: Fähigkeiten
 subtitle: null
 feature:
-  - description: 90%
+  - description: R Programmierkenntnisse
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: Python 
+    icon: python
+    icon_pack: fab
+    name: Python  
+      - description: Statistik
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
 widget_id: faehigkeiten
 ---
