@@ -16,4 +16,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-Im Rahmen meiner Bachelorarbeit an der Fernuniversität Schweiz habe ich die Daten von mehreren Tausenden Studierenden ausgewertet
+Im Rahmen meiner Bachelorarbeit an der FernUni Schweiz (Universitäre Fernstudien Schweiz) am Lehrstuhl von Corinna Martarelli [https://fernuni.ch/corinna-martarelli/ ](https://fernuni.ch/corinna-martarelli/)habe ich die Ursachen für den vorzeitigen Studienabbruch von Studierenden an der Fernuni Schweiz theoretisch modelliert und mit Hilfe eines zur Verfügung stehenden Datensatz von mehreren Tausenden Studierenden praktisch ausgewertet. Dabei habe ich geostatistische, lineare Modelle und Methoden des maschinellen Lernen (Random Forest) verwendet.
