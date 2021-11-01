@@ -28,6 +28,9 @@ education:
     - course: Master of Arts (Humanities)
       institution: Universität Zürich
       year: 2010
+    - course: Lehrdiplom für Maturitätsschulen
+      institution: Universität Zürich
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
