@@ -2,8 +2,7 @@
 title: Ramon Füglister
 role: "Lehrperson "
 avatar_filename: 1585300660637.jpg
-bio: Meine Interessen liegen im Educational Data Mining, Experimental Classroom
-  und der Anwendung von KI im Schulkontext.
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -36,6 +35,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Ramon Füglister
-
-Herzlich Willkommen auf meiner persönlichen Homepage.
+Herzlich Willkommen auf der persönlichen Homepage von Ramon Füglister. Ich bin Lehrperson an der Berufsfachschule ZAG Winterthur und interessiere mich für Data Science, Educational Data Mining, Learning Analytics und Machine Learning für den Lehrberuf.
