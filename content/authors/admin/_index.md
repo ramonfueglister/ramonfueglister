@@ -1,8 +1,9 @@
 ---
 title: Ramon Füglister
 role: "Lehrperson "
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: 1585300660637.jpg
+bio: Meine Interessen liegen im Educational Data Mining, Experimental Classroom
+  und der Anwendung von KI im Schulkontext.
 interests: []
 social:
   - icon: envelope
