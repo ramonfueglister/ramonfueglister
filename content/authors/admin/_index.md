@@ -1,7 +1,7 @@
 ---
 title: Ramon Füglister
 role: "Lehrperson "
-avatar_filename: 1585300660637.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
