@@ -25,12 +25,15 @@ education:
     - course: Bachelor of Science (voraussichtlich)
       institution: Fernuniversität Schweiz
       year: 2022
-    - course: Master of Arts (Humanities)
-      institution: Universität Zürich
-      year: 2010
+    - course: Lehrdiplom für den allgemeinbildenden Unterricht an Berufsfachschulen
+      institution: Pädagogische Hochschule Zürich
+      year: 2015
     - course: Lehrdiplom für Maturitätsschulen
       institution: Universität Zürich
       year: 2011
+    - course: Master of Arts (Humanities)
+      institution: Universität Zürich
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
