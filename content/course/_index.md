@@ -2,7 +2,7 @@
 title: Educational Data Mining und Learning Analytics
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Course
+linktitle: course
 
 # Page summary for search engines.
 summary: Educational Data Mining und Learning Analytics
