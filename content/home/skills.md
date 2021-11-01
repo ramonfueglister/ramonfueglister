@@ -13,7 +13,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python  
-      - description: Statistik
+  - description: Statistik
     icon: chart-line
     icon_pack: fas
     name: Statistics
