@@ -22,19 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Lehrperson für Allgemeinbildung 
+    company: ZAG Winterthur
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Winterthur
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Aufgaben:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Unterricht an einer Berufsfachschule 
+        
         
   - title: Professor of Semiconductor Physics
     company: University X
