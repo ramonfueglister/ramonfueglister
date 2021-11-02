@@ -11,7 +11,7 @@ image:
 ---
 #### Story:
 
-*Hannah hat das erste Halbjahr mit ihren 2 Klassen 21A und 21B hinter sich gebracht. Es war unglaublich anstrengend mit der ganzen Vorbereitung und zugleich.*
+*Hannah hat ihr erstes Jahr als Klassenlehrperson der zwei Klassen 21A und 21B hinter sich gebracht. Das Jahr war extrem spannend für sie, sie hat soviel Spass gemacht die beiden Klassen zu unterrichten, zugleich unglaublich anstrengend mit der ganzen Vorbereitung und zugleich.*
 
 #### Quantitative Methode:
 
