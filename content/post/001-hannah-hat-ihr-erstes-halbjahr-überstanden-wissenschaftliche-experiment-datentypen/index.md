@@ -10,9 +10,12 @@ image:
 ---
 #### Story:
 
-*Hannah hat ihr gerade drittes Jahr als Klassenlehrperson an einer Berufsfachschule und Höheren Fachschule erfolgreich hinter sich gebracht. Sie unterrichtet zwei Klassen 21A, 21B und 21C an der Berufsfachschule sowie zwei Klassen HF2021 und HF2022 an der höheren Berufsfachschule. Das mittlerweile dritte Jahr im Lehrberuf war extrem spannend für sie.  Sie hat extrem viel Spass gehabt, die Klassen zu unterrichten und den Lernprozess zu begleiten. Nach einer verdienten Sommerpause* 
+*Hannah hat ihr gerade drittes Jahr als Klassenlehrperson an einer Berufsfachschule und Höheren Fachschule erfolgreich hinter sich gebracht. Sie unterrichtet zwei Klassen 21A, 21B und 21C an der Berufsfachschule sowie zwei Klassen HF2021 und HF2022 an der höheren Berufsfachschule. Das mittlerweile dritte Jahr im Lehrberuf war extrem spannend für sie.  Sie hat extrem viel Spass gehabt, die Klassen zu unterrichten und den Lernprozess zu begleiten. Nach einer verdienten Sommerpause nimmt sie ihre Unterlagen hervor und startet ihren Laptop. Endlich ist etwas Luft für sie ihren Unterricht zu überarbeiten - auf Grundlage eines evidenzbasierten Unterricht.*
 
+#### *Was ist ein evidenzbasierter Unterricht?* 
 
+»Fundamentally, the most powerful way of thinking about a teacher’s role is for
+teachers to see themselves as evaluators of their effects on students. Teachers need to use evidence-based methods to inform, change, and sustain these evaluation beliefs about their effects.« (Hattie, 2012,S.14)
 
 *, zugleich unglaublich anstrengend mit der ganzen inhaltlichen Vorbereitung und den vielen Eindrücken von ihren Lernenden. Für das zweite Jahr hat sich Hannah vorgenommen die Klasse  ist versiert mit Zahlen und* 
 
