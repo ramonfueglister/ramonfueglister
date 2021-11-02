@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: EDUMETRIC.CH - Data Science für Lehrpersonen # Website name
+title: EDUMETRIC.CH# Website name
 baseurl: 'https://edumetric.ch/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
