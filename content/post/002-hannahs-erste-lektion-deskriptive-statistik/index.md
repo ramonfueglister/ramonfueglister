@@ -1,6 +1,6 @@
 ---
-title: "003: Hannah möchte wissen wie unterschiedlich motiviert ihre
-  beiden  Jahrgänge waren (t-test)"
+title: "003: Hannah möchte wissen ob ihre Lernenden der letzten Jahrgänge im
+  Durchschnitt ähnlich alt waren (t-test)"
 date: 2021-11-01T19:32:40.277Z
 draft: false
 featured: false
