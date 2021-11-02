@@ -9,33 +9,29 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Story: 
+#### Story:
 
+*Hannah hat das erste Halbjahr mit ihren 2 Klassen 21A und 21B hinter sich gebracht. Es war unglaublich anstrengend mit der ganzen Vorbereitung und zugleich.*
 
-
-### Quantitative Methode:
+#### Quantitative Methode:
 
 •Zwei verschiedene Ansätze, wie menschliches Erleben, Verhalten und Handeln erklärt werden kann
 •Unterschiedliche Methodik
 
-
-
-
-
-### Aufbau des Experiments:
+#### Aufbau des Experiments:
 
 I.Fragestellung
 
 \- Was interessiert uns?
-- Was wollen wir herausfinden?
 
-### 
+* Was wollen wir herausfinden?
+
 Hypothese
 
 \- Wie lässt sich die Forschungsfrage provisorisch beantworten?
-- Welche Voraussagen können wir aufgrund bestehender Literatur oder Pilotstudien machen?
-iii.Definition gemäss Huber: Eine Hypothese ist eine beliebige Aussage, die man provisorisch für bestimmte Zwecke als wahr annimmt, auch wenn man nicht oder zumindest nicht genau weiss, ob sie wirklich wahr ist oder nicht.
 
+* Welche Voraussagen können wir aufgrund bestehender Literatur oder Pilotstudien machen?
+  iii.Definition gemäss Huber: Eine Hypothese ist eine beliebige Aussage, die man provisorisch für bestimmte Zwecke als wahr annimmt, auch wenn man nicht oder zumindest nicht genau weiss, ob sie wirklich wahr ist oder nicht.
 
 III.Bestimmung der unabhängigen Variable(n) (UV)
 IV.Bestimmung & Operationalisierungder abhängigen Variable(n) (AV)
