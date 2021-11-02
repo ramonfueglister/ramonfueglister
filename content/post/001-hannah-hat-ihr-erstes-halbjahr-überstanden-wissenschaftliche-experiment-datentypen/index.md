@@ -1,6 +1,5 @@
 ---
-title: "001: Hannah hat ihr erstes Halbjahr überstanden... (Wissenschaftliche
-  Experiment, Datentypen)"
+title: "001: Hannah hat ihr erstes Halbjahr überstanden... (Quantitative Methoden)"
 date: 2021-11-02T05:31:03.946Z
 draft: false
 featured: false
@@ -11,7 +10,11 @@ image:
 ---
 #### Story:
 
-*Hannah hat ihr erstes Jahr als Klassenlehrperson der zwei Klassen 21A und 21B hinter sich gebracht. Das Jahr war extrem spannend für sie, sie hat soviel Spass gemacht die beiden Klassen zu unterrichten, zugleich unglaublich anstrengend mit der ganzen inhaltlichen Vorbereitung und den vielen Eindrücken von ihren Lernenden. Für das zweite Jahr hat sich Hannah vorgenommen die Klasse  ist versiert mit Zahlen und* 
+*Hannah hat ihr gerade drittes Jahr als Klassenlehrperson an einer Berufsfachschule und Höheren Fachschule erfolgreich hinter sich gebracht. Sie unterrichtet zwei Klassen 21A, 21B und 21C an der Berufsfachschule sowie zwei Klassen HF2021 und HF2022 an der höheren Berufsfachschule. Das mittlerweile dritte Jahr im Lehrberuf war extrem spannend für sie.  Sie hat extrem viel Spass gehabt, die Klassen zu unterrichten und den Lernprozess zu begleiten. Nach einer verdienten Sommerpause* 
+
+
+
+*, zugleich unglaublich anstrengend mit der ganzen inhaltlichen Vorbereitung und den vielen Eindrücken von ihren Lernenden. Für das zweite Jahr hat sich Hannah vorgenommen die Klasse  ist versiert mit Zahlen und* 
 
 *Was sind quantitative Methoden?*
 
