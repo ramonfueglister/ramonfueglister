@@ -1,5 +1,5 @@
 ---
-title: "001: Jamovi und R installieren"
+title: "000: Jamovi und R installieren"
 date: 2021-11-01T19:29:21.650Z
 draft: false
 featured: false
