@@ -1,6 +1,6 @@
 ---
-title: "005: Planen meine Studierenden meiner Klassen anders als meine
-  Lernenden? (Chi Quadrat Test)"
+title: "005: Planen die Studierenden meiner Klassen ihre Arbeiten anders als
+  meine Lernenden? (Chi Quadrat Test)"
 date: 2021-11-02T10:13:33.141Z
 draft: false
 featured: false
