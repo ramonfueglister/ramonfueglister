@@ -33,7 +33,7 @@ Gibt es einen Unterschied zwischen der Motivation der Studierenden im Jahr 2020 
 
 Generelle Hypothese: Es gibt einen Unterschied zwischen den Motivationsmittelwerten des Jahrgangs 2020 und 2021
 
-##### 4. Statistische Hypothese:
+Statistische Hypothesen:
 
 H0 = Es gibt keinen Unterschied zwischen den Motivationsmittelwerten des Jahrgangs 2020 und 2021
 
@@ -41,15 +41,15 @@ H1 = Es gibt einen Unterschied zwischen den Motivationsmittelwerten des Jahrgang
 
 ##### 4. Variablen
 
-Y =gemessene Motivation auf einer Skala von 1-6
+Y =gemessene Motivation auf einer Skala von 1-10
 
-X = Jahrgang 2020 und Jahrgang 2021
+X = Zuordnung der Studierenden zum Jahrgang 2020 und Jahrgang 2021
 
 **5. Ausgewähltes Verfahren: T-Test** 
 
 Dert-Test für unabhängige Stichproben testet, ob die Mittelwerte zweier unabhängiger Stichproben verschieden sind oder verkürzt: "Unterscheiden sich die Mittelwerte zweier unabhängiger Stichproben?"
 
-**4. Voraussetzungen**
+**6. Statistische Voraussetzungen**
 
 \- 2 Gruppen, die unabhängig voneinander sind (z.B. 2 Jahrgänge, 2 Klassen etc.) gemessen als kategoriale Variable
 
@@ -62,18 +62,6 @@ statistische Voraussetzungen
 
 
 
-
-**4. Bestimmung der abhängigen und unabhängigen Variable(n)**
-
-
-
-
-
-**6. Statistische Hypothesen**
-
-
-
-##### 7. Statistische Voraussetzungen:
 
 
 
