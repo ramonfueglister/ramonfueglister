@@ -9,13 +9,23 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+##### 1. Story
+
+
+
+2. Fragestellung
+
 ##### 2. Voraussetzungen:
 
-\- 2 Gruppen, die unabhängig voneinander sind (z.B. 2 Jahrgänge, 2 Klassen etc.)
+\- sinnvollerweise mindestens 30 gemessene Datenpunkte (z.B. Personen) pro Variable
 
-\- statistische Voraussetzungen
+\- 2 Gruppen, die unabhängig voneinander sind (z.B. 2 Jahrgänge, 2 Klassen etc.) gemessen als kategoriale Variable
 
+\- eine kontinuerliche Variable
 
+statistische Voraussetzungen
+
+3. 
 
 <!--StartFragment-->
 
