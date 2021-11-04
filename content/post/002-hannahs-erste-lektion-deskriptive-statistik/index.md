@@ -11,35 +11,45 @@ image:
 ---
 ##### 1. Story
 
+https://wiki.uib.no/jamovide/index.php/
+
+Jamovi https://statistics.berkeley.edu/computing/r-t-tests
+
+https://r-intro.tadaa-data.de/book/ANOVA.html
+
+https://bjoernwalther.com/t-test-fuer-unabhaengige-stichproben-in-r-rechnen-und-interpretieren/
+
+
+
 In vielen Fachbüchern wird empfohlen, dass bei einem Stichprobenumfang von 𝑛 ≥ 30
 die Annahme der Normalverteilung für die meisten praktischen Zwecke ignoriert werden
 kann (Arnold, 1990; Casella und Berger, 1990 sowie Moore und McCabe, 1993).
 
 **2. Fragestellung**
 
-Gibt es einen Unterschied zwischen den Altersmittelwerten des Jahrgangs 2020 und 2021
+Gibt es einen Unterschied zwischen der Motivation der Studierenden im Jahr 2020 und 2021?
 
-3. Hypothese
+**3. Hypothesen**
 
-**3. Ausgewähltes Verfahren: T-Test** 
+Generelle Hypothese: Es gibt einen Unterschied zwischen den Motivationsmittelwerten des Jahrgangs 2020 und 2021
+
+##### 4. Statistische Hypothese:
+
+H0 = Es gibt keinen Unterschied zwischen den Motivationsmittelwerten des Jahrgangs 2020 und 2021
+
+H1 = Es gibt einen Unterschied zwischen den Motivationsmittelwerten des Jahrgangs 2020 und 2021
+
+##### 4. Variablen
+
+Y =gemessene Motivation auf einer Skala von 1-6
+
+X = Jahrgang 2020 und Jahrgang 2021
+
+**5. Ausgewähltes Verfahren: T-Test** 
 
 Dert-Test für unabhängige Stichproben testet, ob die Mittelwerte zweier unabhängiger Stichproben verschieden sind oder verkürzt: "Unterscheiden sich die Mittelwerte zweier unabhängiger Stichproben?"
 
-
-
-**4. Statistische Hypothesen**
-
-H0 = Es gibt keinen Unterschied zwischen den beiden Altersmittelwerten des Jahrgangs 2020 und 2021
-
-H1 = Es gibt einen Unterschied zwischen den beiden Altersmittelwerten des Jahrgangs 2020 und 2021
-
-
-
-
-
-
-
-##### 2. Voraussetzungen:
+**4. Voraussetzungen**
 
 \- 2 Gruppen, die unabhängig voneinander sind (z.B. 2 Jahrgänge, 2 Klassen etc.) gemessen als kategoriale Variable
 
@@ -48,6 +58,24 @@ H1 = Es gibt einen Unterschied zwischen den beiden Altersmittelwerten des Jahrga
 \- eine kontinuerliche Variable
 
 statistische Voraussetzungen
+
+
+
+
+
+**4. Bestimmung der abhängigen und unabhängigen Variable(n)**
+
+
+
+
+
+**6. Statistische Hypothesen**
+
+
+
+##### 7. Statistische Voraussetzungen:
+
+
 
 3. 
 
