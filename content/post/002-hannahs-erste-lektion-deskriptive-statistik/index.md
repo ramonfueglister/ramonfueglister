@@ -17,20 +17,25 @@ kann (Arnold, 1990; Casella und Berger, 1990 sowie Moore und McCabe, 1993).
 
 **2. Fragestellung**
 
-\- Gibt es einen Unterschied in den Mittelwerten zweier unabhängiger Stichproben?
+Gibt es einen Unterschied zwischen den Altersmittelwerten des Jahrgangs 2020 und 2021
 
-3. Statistische Hypothesen
+3. Hypothese
 
-H0 = Es gibt keinen Unterschied zwischen den beiden Mittelwerten des Jahrgangs 2020 und 2021
+**3. Ausgewähltes Verfahren: T-Test** 
 
-H1 = 
+Dert-Test für unabhängige Stichproben testet, ob die Mittelwerte zweier unabhängiger Stichproben verschieden sind oder verkürzt: "Unterscheiden sich die Mittelwerte zweier unabhängiger Stichproben?"
 
-Dert-Test für unabhängige Stichproben testet, ob die Mittelwerte zweier unabhängiger Stichproben verschieden sind.
 
-Die Fragestellung des t-Tests für unabhängige Stichproben wird oft so verkürzt:\
-"Unterscheiden sich die Mittelwerte zweier unabhängiger Stichproben?"
 
-<!--EndFragment-->
+**4. Statistische Hypothesen**
+
+H0 = Es gibt keinen Unterschied zwischen den beiden Altersmittelwerten des Jahrgangs 2020 und 2021
+
+H1 = Es gibt einen Unterschied zwischen den beiden Altersmittelwerten des Jahrgangs 2020 und 2021
+
+
+
+
 
 
 
