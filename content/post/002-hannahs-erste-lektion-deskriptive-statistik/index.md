@@ -11,6 +11,10 @@ image:
 ---
 ##### 1. Story
 
+Ein grosses Problem für Hannah war die Betreuung der Abschlussarbeiten der letzten 2 2 Jahren. Häufig hatten die Lernenden ihre Notizen nicht dabei, Aufgaben wurden nicht rechtzeitig abgegeben und nicht dabei,  letzten Jahr, dass die Lernenden die Aufgaben nicht alle zuverlässig
+
+
+
 https://wiki.uib.no/jamovide/index.php/
 
 Jamovi https://statistics.berkeley.edu/computing/r-t-tests
@@ -18,8 +22,6 @@ Jamovi https://statistics.berkeley.edu/computing/r-t-tests
 https://r-intro.tadaa-data.de/book/ANOVA.html
 
 https://bjoernwalther.com/t-test-fuer-unabhaengige-stichproben-in-r-rechnen-und-interpretieren/
-
-
 
 In vielen Fachbüchern wird empfohlen, dass bei einem Stichprobenumfang von 𝑛 ≥ 30
 die Annahme der Normalverteilung für die meisten praktischen Zwecke ignoriert werden
@@ -41,7 +43,7 @@ H1 = Es gibt einen Unterschied zwischen den Motivationsmittelwerten des Jahrgang
 
 ##### 4. Variablen
 
-Y =gemessene Motivation auf einer Skala von 1-10
+Y =Zeit in Stunden vor dem offiziellen Abgabeschluss des Konzeptbeschriebs
 
 X = Zuordnung der Studierenden zum Jahrgang 2020 und Jahrgang 2021
 
@@ -59,35 +61,15 @@ Dert-Test für unabhängige Stichproben testet, ob die Mittelwerte zweier unabh�
 
 statistische Voraussetzungen
 
-
-
-
-
-
-
-3. 
-
-
+3.
 
 Sie benötigen eine zweistufige Gruppenvariable (z. B. Behandlung / Kontrolle) und eine kontinuierliche Ergebnisvariable. Vergewissern Sie sich, dass das korrekte [Skalenniveau](https://wiki.uib.no/jamovide/index.php/Skalenniveau_festlegen "Skalenniveau festlegen") gewählt ist, so dass die Gruppenvariable mit dem Symbol für kategoriale Variablen [![Icon Nominal.jpg](https://wiki.uib.no/jamovide/images/thumb/1/1d/Icon_Nominal.jpg/30px-Icon_Nominal.jpg)](https://wiki.uib.no/jamovide/index.php/Datei:Icon_Nominal.jpg) und die kontinuierliche Variable mit dem Symbol für kontinuierlichen Variablen [![Icon Continuous.jpg](https://wiki.uib.no/jamovide/images/thumb/d/d8/Icon_Continuous.jpg/30px-Icon_Continuous.jpg)](https://wiki.uib.no/jamovide/index.php/Datei:Icon_Continuous.jpg) gekennzeichnet ist.\
 Ein korrekter Datensatz sollte folgendermaßen aussehen:
 
-
-
 Wählen Sie Analyses → T-Test -> Independent Samples T-Test.
-
-
 
 Das Ergebnis wird in der Resultatausgabe (rechts) angezeigt.
 
-
-
-
-
-
-
 Verschieben Sie die Ergebnisvariablen (abhängige Variablen) in "Dependent Variables" und die Gruppenvariable in "Grouping Variable".
-
-
 
 002: Hannahs erste Lektion (Deskriptive Statistik)
